@@ -1,0 +1,40 @@
+body{
+  background-color:lightgrey;
+}
+#div1{
+  background-color:grey;
+  border-width:5px;
+  border-style:solid;
+  border-color:black;
+  text-align:center;
+}
+#text{
+  font-family:sans-serif;
+  color:black;
+}
+#div2{
+  display:inline-block;
+  background-color:grey;
+  border-width:1px;
+  border-style:solid;
+  border-color:black;
+  text-align:center;
+  width:100px;
+  
+}
+#div2:hover{
+  width:110px;
+  height:80px;
+  font-size:25px;
+  border-width:2px;
+}
+#div3{
+    background-color:grey;
+  border-width:5px;
+  border-style:solid;
+  border-color:black;
+  text-align:center;
+  width:100px;
+  height:50px;
+  font-size:7.5px;
+}
