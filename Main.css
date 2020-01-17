@@ -38,3 +38,10 @@ body{
   height:50px;
   font-size:7.5px;
 }
+#img1{
+  width:110px;
+  height:55px;
+  display: block;
+float:right;
+
+}
