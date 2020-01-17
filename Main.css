@@ -27,6 +27,7 @@ body{
   height:80px;
   font-size:25px;
   border-width:2px;
+  position:inherit;
 }
 #div3{
     background-color:grey;
@@ -38,10 +39,11 @@ body{
   height:50px;
   font-size:7.5px;
 }
+
+
 #img1{
   width:110px;
   height:55px;
   display: block;
 float:right;
-
 }
